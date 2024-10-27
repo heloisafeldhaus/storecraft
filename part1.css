@@ -5,7 +5,7 @@ h1 {
     font-size: 100px;
     font-weight:bold;
     color: khaki;
-    background-image: src="Image/2.jpeg"
+    background-image: url('Image/1.jpeg');
 
 }
 
