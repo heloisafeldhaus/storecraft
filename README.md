@@ -4,4 +4,4 @@ A simple website built to practice HTML and CSS.
 
 ___
 
-By Helo
+By Heloisa
