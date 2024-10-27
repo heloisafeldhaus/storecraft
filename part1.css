@@ -15,6 +15,7 @@ font-size: 32px;
 font-weight:bold;
 color: white;
 background-color: lightcoral;
+
 }
 
 strong{
@@ -22,4 +23,8 @@ strong{
     font-weight:bold;
     color:blue;
 
+}
+
+img{
+    border-radius: 10px;
 }
